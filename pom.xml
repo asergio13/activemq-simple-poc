@@ -39,18 +39,18 @@
 		<dependency>
 		    <groupId>org.yaml</groupId>
 		    <artifactId>snakeyaml</artifactId>
-		    <version>1.21</version>
+		    <version>1.28</version>
 		</dependency>
 		
 		<dependency>
 		    <groupId>org.apache.activemq</groupId>
 		    <artifactId>activemq-broker</artifactId>
-		    <version>5.15.4</version>
+		    <version>5.16.2</version>
 		</dependency>
 		<dependency>
 		    <groupId>org.apache.activemq</groupId>
 		    <artifactId>activemq-kahadb-store</artifactId>
-		    <version>5.15.4</version>
+		    <version>5.16.2</version>
 		</dependency>
 		
 		<!-- Logging -->
